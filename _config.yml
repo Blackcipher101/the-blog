@@ -6,7 +6,7 @@ logo_url:           https://avatars.githubusercontent.com/u/33775493?v=4 # Get i
 
 # Site Settings
 url:                https://blackcipher101.github.io # main url
-baseurl:            /theblog
+baseurl:            /blog
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
